@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="PHPTravel" duration-ms="97812" started-at="2021-05-27T00:01:36 IST" finished-at="2021-05-27T00:03:14 IST">
+    <groups>
+    </groups>
+    <test name="PHPTravel" duration-ms="97812" started-at="2021-05-27T00:01:36 IST" finished-at="2021-05-27T00:03:14 IST">
+      <class name="com.inetBanking.testcases.Tc_002_SearchFlights">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.inetBanking.testcases.Tc_002_SearchFlights@7ed7259e]" name="setup" is-config="true" duration-ms="27433" started-at="2021-05-27T00:01:36 IST" finished-at="2021-05-27T00:02:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickHomeMenu()[pri:0, instance:com.inetBanking.testcases.Tc_002_SearchFlights@7ed7259e]" name="clickHomeMenu" duration-ms="69948" started-at="2021-05-27T00:02:04 IST" finished-at="2021-05-27T00:03:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickHomeMenu -->
+      </class> <!-- com.inetBanking.testcases.Tc_002_SearchFlights -->
+    </test> <!-- PHPTravel -->
+  </suite> <!-- PHPTravel -->
+</testng-results>

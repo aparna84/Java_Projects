@@ -1,0 +1,80 @@
+2021-04-02 00:12:05,546 WARN  [SoapUI] Missing folder [F:\Aparna_Java\Projects\SoapUITests\ext] for external libraries
+2021-04-02 00:12:05,870 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\sreen\soapui-settings.xml]
+2021-04-02 00:12:07,498 INFO  [Reflections] Reflections took 199 ms to scan 2 urls, producing 75 keys and 160 values 
+2021-04-02 00:12:07,672 INFO  [Reflections] Reflections took 64 ms to scan 1 urls, producing 46 keys and 344 values 
+2021-04-02 00:12:08,067 INFO  [Reflections] Reflections took 23 ms to scan 1 urls, producing 11 keys and 17 values 
+2021-04-02 00:12:08,288 INFO  [Reflections] Reflections took 12 ms to scan 1 urls, producing 13 keys and 21 values 
+2021-04-02 00:12:10,659 INFO  [Reflections] Reflections took 2204 ms to scan 13 urls, producing 341 keys and 1458 values 
+2021-04-02 00:12:10,685 INFO  [PluginManager] Adding plugin from [C:\Users\sreen\.soapuios\plugins\ready-mqtt-plugin-dist.jar]
+2021-04-02 00:12:10,685 INFO  [PluginManager] Adding plugin from [C:\Users\sreen\.soapuios\plugins\soapui-swagger-plugin-2.2-dist.jar]
+2021-04-02 00:12:10,882 INFO  [Reflections] Reflections took 116 ms to scan 2 urls, producing 75 keys and 160 values 
+2021-04-02 00:12:12,547 INFO  [Reflections] Reflections took 1635 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2021-04-02 00:12:12,616 INFO  [PluginManager] Adding plugin from [C:\Users\sreen\.soapuios\plugins\ready-uxm-plugin-os-1.0.3.jar]
+2021-04-02 00:12:12,704 INFO  [Reflections] Reflections took 47 ms to scan 1 urls, producing 46 keys and 344 values 
+2021-04-02 00:12:13,557 INFO  [Reflections] Reflections took 2664 ms to scan 13 urls, producing 341 keys and 1458 values 
+2021-04-02 00:12:14,098 INFO  [Reflections] Reflections took 1382 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2021-04-02 00:12:14,134 INFO  [PluginManager] Adding plugin from [C:\Users\sreen\.soapuios\plugins\readyapi-swaggerhub-plugin-1.0.jar]
+2021-04-02 00:12:14,409 INFO  [Reflections] Reflections took 16 ms to scan 1 urls, producing 13 keys and 21 values 
+2021-04-02 00:12:14,864 INFO  [Reflections] Reflections took 1269 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2021-04-02 00:12:14,918 INFO  [PluginManager] Adding plugin from [C:\Users\sreen\.soapuios\plugins\readyapi-postman-1.0.1.jar]
+2021-04-02 00:12:15,286 INFO  [Reflections] Reflections took 13 ms to scan 1 urls, producing 11 keys and 17 values 
+2021-04-02 00:12:15,515 INFO  [Reflections] Reflections took 1098 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2021-04-02 00:12:16,172 INFO  [Reflections] Reflections took 878 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2021-04-02 00:12:16,185 INFO  [PluginManager] 5 plugins loaded in 5498 ms
+2021-04-02 00:12:16,185 INFO  [DefaultSoapUICore] All plugins loaded
+2021-04-02 00:12:23,989 INFO  [WsdlProject] Loaded project from [file:/F:/SoapUI/Automation-soapui-project.xml]
+2021-04-02 00:12:28,636 INFO  [log] Hello
+2021-04-02 00:12:28,670 INFO  [log] one
+2021-04-02 00:12:28,671 INFO  [log] 39
+2021-04-02 00:12:28,746 INFO  [log] 9912
+2021-04-02 00:12:28,747 INFO  [log] Ramu two
+2021-04-02 00:12:28,794 INFO  [log] <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:typ="http://sample.com/reservation/guest/types">
+   <soap:Header/>
+   <soap:Body>
+      <typ:getEmployeeDetails>
+         <!--Optional:-->
+         <typ:employeeName>${#TestCase#employeeName}</typ:employeeName>
+      </typ:getEmployeeDetails>
+   </soap:Body>
+</soap:Envelope>
+2021-04-02 00:12:28,838 INFO  [log] M
+2021-04-02 00:12:28,925 INFO  [log] <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:typ="http://sample.com/reservation/guest/types">
+   <soap:Header/>
+   <soap:Body>
+      <typ:addEmployee>
+         <!--Optional:-->
+         <typ:name>root1</typ:name>
+         <!--Optional:-->
+         <typ:id>456</typ:id>
+         <!--Optional:-->
+         <typ:Department>IT</typ:Department>
+         <!--Optional:-->
+         <typ:age>12</typ:age>
+      </typ:addEmployee>
+   </soap:Body>
+</soap:Envelope>
+2021-04-02 00:12:30,913 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/xop.xsd with targetNamespace http://www.w3.org/2004/08/xop/include
+2021-04-02 00:12:30,970 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/XMLSchema.xsd with targetNamespace http://www.w3.org/2001/XMLSchema
+2021-04-02 00:12:30,976 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/xml.xsd with targetNamespace http://www.w3.org/XML/1998/namespace
+2021-04-02 00:12:30,981 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/swaref.xsd with targetNamespace http://ws-i.org/profiles/basic/1.1/xsd
+2021-04-02 00:12:30,987 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/xmime200505.xsd with targetNamespace http://www.w3.org/2005/05/xmlmime
+2021-04-02 00:12:30,992 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/xmime200411.xsd with targetNamespace http://www.w3.org/2004/11/xmlmime
+2021-04-02 00:12:30,998 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope.xsd with targetNamespace http://schemas.xmlsoap.org/soap/envelope/
+2021-04-02 00:12:31,006 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd with targetNamespace http://schemas.xmlsoap.org/soap/encoding/
+2021-04-02 00:12:31,011 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope12.xsd with targetNamespace http://www.w3.org/2003/05/soap-envelope
+2021-04-02 00:12:31,021 INFO  [SchemaUtils] Added default schema from file:/C:/Program%20Files/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd with targetNamespace http://www.w3.org/2003/05/soap-encoding
+2021-04-02 00:12:31,023 INFO  [SchemaUtils] Loading schema types from [http://localhost:8080/axis2/services/EmployeeManagementService?wsdl]
+2021-04-02 00:12:31,023 INFO  [SchemaUtils] Getting schema http://localhost:8080/axis2/services/EmployeeManagementService?wsdl
+2021-04-02 00:12:31,982 WARN  [SchemaUtils] Error: jar:file:/C:/Program%20Files/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd:0: warning: id-idref-idrefs-entity-entities-notation: For compatibility, type 'ID' should only be used for attributes (used for element 'ID@http://www.w3.org/2003/05/soap-encoding').
+2021-04-02 00:12:31,982 WARN  [SchemaUtils] Error: jar:file:/C:/Program%20Files/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd:0: warning: id-idref-idrefs-entity-entities-notation: For compatibility, type 'IDREF' should only be used for attributes (used for element 'IDREF@http://www.w3.org/2003/05/soap-encoding').
+2021-04-02 00:12:31,982 WARN  [SchemaUtils] Error: jar:file:/C:/Program%20Files/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd:0: warning: id-idref-idrefs-entity-entities-notation: For compatibility, type 'ENTITY' should only be used for attributes (used for element 'ENTITY@http://www.w3.org/2003/05/soap-encoding').
+2021-04-02 00:12:31,983 WARN  [SchemaUtils] Error: jar:file:/C:/Program%20Files/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd:0: warning: id-idref-idrefs-entity-entities-notation: For compatibility, type 'IDREFS' should only be used for attributes (used for element 'IDREFS@http://www.w3.org/2003/05/soap-encoding').
+2021-04-02 00:12:31,983 WARN  [SchemaUtils] Error: jar:file:/C:/Program%20Files/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd:0: warning: id-idref-idrefs-entity-entities-notation: For compatibility, type 'ENTITIES' should only be used for attributes (used for element 'ENTITIES@http://www.w3.org/2003/05/soap-encoding').
+2021-04-02 00:12:31,983 WARN  [SchemaUtils] Error: jar:file:/C:/Program%20Files/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd:0: warning: id-idref-idrefs-entity-entities-notation: For compatibility, type 'ID' should only be used for attributes (used for element 'ID@http://schemas.xmlsoap.org/soap/encoding/').
+2021-04-02 00:12:31,983 WARN  [SchemaUtils] Error: jar:file:/C:/Program%20Files/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd:0: warning: id-idref-idrefs-entity-entities-notation: For compatibility, type 'IDREF' should only be used for attributes (used for element 'IDREF@http://schemas.xmlsoap.org/soap/encoding/').
+2021-04-02 00:12:31,983 WARN  [SchemaUtils] Error: jar:file:/C:/Program%20Files/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd:0: warning: id-idref-idrefs-entity-entities-notation: For compatibility, type 'ENTITY' should only be used for attributes (used for element 'ENTITY@http://schemas.xmlsoap.org/soap/encoding/').
+2021-04-02 00:12:31,984 WARN  [SchemaUtils] Error: jar:file:/C:/Program%20Files/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd:0: warning: id-idref-idrefs-entity-entities-notation: For compatibility, type 'IDREFS' should only be used for attributes (used for element 'IDREFS@http://schemas.xmlsoap.org/soap/encoding/').
+2021-04-02 00:12:31,984 WARN  [SchemaUtils] Error: jar:file:/C:/Program%20Files/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd:0: warning: id-idref-idrefs-entity-entities-notation: For compatibility, type 'ENTITIES' should only be used for attributes (used for element 'ENTITIES@http://schemas.xmlsoap.org/soap/encoding/').
+2021-04-02 00:12:32,055 WARN  [WsdlValidator] Missing matching Fault in wsdl for bindingOperation [getEmployeeDetails]
+2021-04-02 00:12:33,058 WARN  [Tools] Could not delete temporary directory C:\Users\sreen\AppData\Local\Temp\ff8e7f4e-3348-4da0-b2d7-daa1769667bb
+2021-04-02 00:12:33,058 WARN  [Tools] Could not delete temporary directory C:\Users\sreen\AppData\Local\Temp\2c69da60-c2bd-4c6e-b2fb-2f076831eb0e

@@ -1,0 +1,276 @@
+2021-04-01 19:26:03,672 INFO  [log] Hello
+2021-04-01 19:26:03,728 INFO  [log] one
+2021-04-01 19:26:03,729 INFO  [log] 39
+2021-04-01 19:26:04,140 INFO  [log] 9919
+2021-04-01 19:26:04,140 INFO  [log] Ramu
+2021-04-01 19:26:04,360 INFO  [log] <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:typ="http://sample.com/reservation/guest/types">    <soap:Header/>    <soap:Body>       <typ:getEmployeeDetails>          <!--Optional:-->          <typ:employeeName>${#TestCase#employeeName}</typ:employeeName>       </typ:getEmployeeDetails>    </soap:Body> </soap:Envelope>
+2021-04-01 19:26:04,619 INFO  [log] M
+2021-04-01 19:26:04,794 INFO  [log] <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:typ="http://sample.com/reservation/guest/types">
+   <soap:Header/>
+   <soap:Body>
+      <typ:addEmployee>
+         <!--Optional:-->
+         <typ:name>sun</typ:name>
+         <!--Optional:-->
+         <typ:id>456</typ:id>
+         <!--Optional:-->
+         <typ:Department>IT</typ:Department>
+         <!--Optional:-->
+         <typ:age>12</typ:age>
+      </typ:addEmployee>
+   </soap:Body>
+</soap:Envelope>
+2021-04-01 19:26:08,298 INFO  [log] first column ->sun
+2021-04-01 19:26:12,838 INFO  [log] sun,40
+2021-04-01 19:26:12,838 INFO  [log] first column ->sun
+2021-04-01 19:26:13,697 INFO  [log] sree,30
+2021-04-01 19:26:13,697 INFO  [log] first column ->sree
+2021-04-01 19:26:14,663 INFO  [log] name one,34
+2021-04-01 19:26:14,665 INFO  [log] first column ->name one
+2021-04-01 19:26:15,334 INFO  [log] namenew1?,34
+2021-04-01 19:26:15,334 INFO  [log] first column ->namenew1?
+2021-04-01 19:26:16,001 INFO  [log] namenew2,54
+2021-04-01 19:26:16,001 INFO  [log] first column ->namenew2
+2021-04-01 19:26:17,154 INFO  [log] sreenivas,54
+2021-04-01 19:26:17,154 INFO  [log] first column ->sreenivas
+2021-04-01 19:26:17,797 INFO  [log] Aparna,34
+2021-04-01 19:26:17,797 INFO  [log] first column ->Aparna
+2021-04-01 19:26:18,481 INFO  [log] Aparna1,55
+2021-04-01 19:26:18,483 INFO  [log] first column ->Aparna1
+2021-04-01 19:35:26,493 INFO  [log] Hello
+2021-04-01 19:35:26,518 INFO  [log] one
+2021-04-01 19:35:26,518 INFO  [log] 39
+2021-04-01 19:35:26,611 INFO  [log] 9919
+2021-04-01 19:35:26,611 INFO  [log] Ramu
+2021-04-01 19:35:26,658 INFO  [log] <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:typ="http://sample.com/reservation/guest/types">    <soap:Header/>    <soap:Body>       <typ:getEmployeeDetails>          <!--Optional:-->          <typ:employeeName>${#TestCase#employeeName}</typ:employeeName>       </typ:getEmployeeDetails>    </soap:Body> </soap:Envelope>
+2021-04-01 19:35:26,692 INFO  [log] M
+2021-04-01 19:35:26,748 INFO  [log] <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:typ="http://sample.com/reservation/guest/types">
+   <soap:Header/>
+   <soap:Body>
+      <typ:addEmployee>
+         <!--Optional:-->
+         <typ:name>sun</typ:name>
+         <!--Optional:-->
+         <typ:id>456</typ:id>
+         <!--Optional:-->
+         <typ:Department>IT</typ:Department>
+         <!--Optional:-->
+         <typ:age>12</typ:age>
+      </typ:addEmployee>
+   </soap:Body>
+</soap:Envelope>
+2021-04-01 19:35:28,348 INFO  [log] first column ->sun
+2021-04-01 19:35:29,720 INFO  [log] sun,40
+2021-04-01 19:35:29,720 INFO  [log] first column ->sun
+2021-04-01 19:35:30,441 INFO  [log] sree,30
+2021-04-01 19:35:30,441 INFO  [log] first column ->sree
+2021-04-01 19:35:31,257 INFO  [log] name one,34
+2021-04-01 19:35:31,257 INFO  [log] first column ->name one
+2021-04-01 19:35:31,944 INFO  [log] namenew1?,34
+2021-04-01 19:35:31,945 INFO  [log] first column ->namenew1?
+2021-04-01 19:35:32,615 INFO  [log] namenew2,54
+2021-04-01 19:35:32,616 INFO  [log] first column ->namenew2
+2021-04-01 19:35:33,429 INFO  [log] sreenivas,54
+2021-04-01 19:35:33,430 INFO  [log] first column ->sreenivas
+2021-04-01 19:35:34,086 INFO  [log] Aparna,34
+2021-04-01 19:35:34,087 INFO  [log] first column ->Aparna
+2021-04-01 19:35:34,870 INFO  [log] Aparna1,55
+2021-04-01 19:35:34,871 INFO  [log] first column ->Aparna1
+2021-04-01 23:05:50,026 INFO  [log] Hello
+2021-04-01 23:05:50,097 INFO  [log] one
+2021-04-01 23:05:50,097 INFO  [log] 39
+2021-04-01 23:05:50,225 INFO  [log] 9912
+2021-04-01 23:05:50,225 INFO  [log] Ramu two
+2021-04-01 23:05:50,277 INFO  [log] <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:typ="http://sample.com/reservation/guest/types">
+   <soap:Header/>
+   <soap:Body>
+      <typ:getEmployeeDetails>
+         <!--Optional:-->
+         <typ:employeeName>${#TestCase#employeeName}</typ:employeeName>
+      </typ:getEmployeeDetails>
+   </soap:Body>
+</soap:Envelope>
+2021-04-01 23:05:50,314 INFO  [log] M
+2021-04-01 23:05:50,419 INFO  [log] <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:typ="http://sample.com/reservation/guest/types">
+   <soap:Header/>
+   <soap:Body>
+      <typ:addEmployee>
+         <!--Optional:-->
+         <typ:name>sun</typ:name>
+         <!--Optional:-->
+         <typ:id>456</typ:id>
+         <!--Optional:-->
+         <typ:Department>IT</typ:Department>
+         <!--Optional:-->
+         <typ:age>12</typ:age>
+      </typ:addEmployee>
+   </soap:Body>
+</soap:Envelope>
+2021-04-01 23:05:53,664 INFO  [log] sun,40
+2021-04-01 23:05:53,691 INFO  [log] first column ->sun
+2021-04-01 23:05:54,528 INFO  [log] sree,30
+2021-04-01 23:05:54,528 INFO  [log] first column ->sree
+2021-04-01 23:05:55,177 INFO  [log] name one,34
+2021-04-01 23:05:55,177 INFO  [log] first column ->name one
+2021-04-01 23:05:55,905 INFO  [log] namenew1?,34
+2021-04-01 23:05:55,905 INFO  [log] first column ->namenew1?
+2021-04-01 23:05:56,407 INFO  [log] namenew2,54
+2021-04-01 23:05:56,407 INFO  [log] first column ->namenew2
+2021-04-01 23:05:56,909 INFO  [log] sreenivas,54
+2021-04-01 23:05:56,909 INFO  [log] first column ->sreenivas
+2021-04-01 23:05:57,413 INFO  [log] Aparna,34
+2021-04-01 23:05:57,413 INFO  [log] first column ->Aparna
+2021-04-01 23:05:57,927 INFO  [log] Aparna1,55
+2021-04-01 23:05:57,928 INFO  [log] first column ->Aparna1
+2021-04-01 23:17:02,326 INFO  [log] Hello
+2021-04-01 23:17:02,349 INFO  [log] one
+2021-04-01 23:17:02,350 INFO  [log] 39
+2021-04-01 23:17:02,464 INFO  [log] 9912
+2021-04-01 23:17:02,464 INFO  [log] Ramu two
+2021-04-01 23:17:02,514 INFO  [log] <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:typ="http://sample.com/reservation/guest/types">
+   <soap:Header/>
+   <soap:Body>
+      <typ:getEmployeeDetails>
+         <!--Optional:-->
+         <typ:employeeName>${#TestCase#employeeName}</typ:employeeName>
+      </typ:getEmployeeDetails>
+   </soap:Body>
+</soap:Envelope>
+2021-04-01 23:17:02,551 INFO  [log] M
+2021-04-01 23:17:02,610 INFO  [log] <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:typ="http://sample.com/reservation/guest/types">
+   <soap:Header/>
+   <soap:Body>
+      <typ:addEmployee>
+         <!--Optional:-->
+         <typ:name>sun</typ:name>
+         <!--Optional:-->
+         <typ:id>456</typ:id>
+         <!--Optional:-->
+         <typ:Department>IT</typ:Department>
+         <!--Optional:-->
+         <typ:age>12</typ:age>
+      </typ:addEmployee>
+   </soap:Body>
+</soap:Envelope>
+2021-04-01 23:17:07,765 INFO  [log] sun,40
+2021-04-01 23:17:07,781 INFO  [log] first column ->sun
+2021-04-01 23:17:08,791 INFO  [log] sree,30
+2021-04-01 23:17:08,792 INFO  [log] first column ->sree
+2021-04-01 23:17:09,525 INFO  [log] name one,34
+2021-04-01 23:17:09,526 INFO  [log] first column ->name one
+2021-04-01 23:17:10,606 INFO  [log] namenew1?,34
+2021-04-01 23:17:10,607 INFO  [log] first column ->namenew1?
+2021-04-01 23:17:11,115 INFO  [log] namenew2,54
+2021-04-01 23:17:11,115 INFO  [log] first column ->namenew2
+2021-04-01 23:17:11,625 INFO  [log] sreenivas,54
+2021-04-01 23:17:11,626 INFO  [log] first column ->sreenivas
+2021-04-01 23:17:12,135 INFO  [log] Aparna,34
+2021-04-01 23:17:12,136 INFO  [log] first column ->Aparna
+2021-04-01 23:17:12,648 INFO  [log] Aparna1,55
+2021-04-01 23:17:12,649 INFO  [log] first column ->Aparna1
+2021-04-01 23:37:49,477 INFO  [log] Hello
+2021-04-01 23:37:49,516 INFO  [log] one
+2021-04-01 23:37:49,516 INFO  [log] 39
+2021-04-01 23:37:49,616 INFO  [log] 9912
+2021-04-01 23:37:49,616 INFO  [log] Ramu two
+2021-04-01 23:37:49,669 INFO  [log] <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:typ="http://sample.com/reservation/guest/types">
+   <soap:Header/>
+   <soap:Body>
+      <typ:getEmployeeDetails>
+         <!--Optional:-->
+         <typ:employeeName>${#TestCase#employeeName}</typ:employeeName>
+      </typ:getEmployeeDetails>
+   </soap:Body>
+</soap:Envelope>
+2021-04-01 23:37:49,721 INFO  [log] M
+2021-04-01 23:37:49,782 INFO  [log] <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:typ="http://sample.com/reservation/guest/types">
+   <soap:Header/>
+   <soap:Body>
+      <typ:addEmployee>
+         <!--Optional:-->
+         <typ:name>sun</typ:name>
+         <!--Optional:-->
+         <typ:id>456</typ:id>
+         <!--Optional:-->
+         <typ:Department>IT</typ:Department>
+         <!--Optional:-->
+         <typ:age>12</typ:age>
+      </typ:addEmployee>
+   </soap:Body>
+</soap:Envelope>
+2021-04-01 23:37:55,115 INFO  [log] sun,40
+2021-04-01 23:37:55,131 INFO  [log] first column ->sun
+2021-04-01 23:37:55,894 INFO  [log] sree,30
+2021-04-01 23:37:55,894 INFO  [log] first column ->sree
+2021-04-01 23:37:56,561 INFO  [log] name one,34
+2021-04-01 23:37:56,561 INFO  [log] first column ->name one
+2021-04-01 23:37:57,374 INFO  [log] namenew1?,34
+2021-04-01 23:37:57,374 INFO  [log] first column ->namenew1?
+2021-04-01 23:37:57,877 INFO  [log] namenew2,54
+2021-04-01 23:37:57,877 INFO  [log] first column ->namenew2
+2021-04-01 23:37:58,378 INFO  [log] sreenivas,54
+2021-04-01 23:37:58,378 INFO  [log] first column ->sreenivas
+2021-04-01 23:37:58,880 INFO  [log] Aparna,34
+2021-04-01 23:37:58,880 INFO  [log] first column ->Aparna
+2021-04-01 23:37:59,383 INFO  [log] Aparna1,55
+2021-04-01 23:37:59,383 INFO  [log] first column ->Aparna1
+2021-04-02 00:08:55,514 INFO  [log] Hello
+2021-04-02 00:08:55,572 INFO  [log] one
+2021-04-02 00:08:55,573 INFO  [log] 39
+2021-04-02 00:08:55,675 INFO  [log] 9912
+2021-04-02 00:08:55,675 INFO  [log] Ramu two
+2021-04-02 00:08:55,744 INFO  [log] <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:typ="http://sample.com/reservation/guest/types">
+   <soap:Header/>
+   <soap:Body>
+      <typ:getEmployeeDetails>
+         <!--Optional:-->
+         <typ:employeeName>${#TestCase#employeeName}</typ:employeeName>
+      </typ:getEmployeeDetails>
+   </soap:Body>
+</soap:Envelope>
+2021-04-02 00:08:55,774 INFO  [log] M
+2021-04-02 00:08:55,842 INFO  [log] <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:typ="http://sample.com/reservation/guest/types">
+   <soap:Header/>
+   <soap:Body>
+      <typ:addEmployee>
+         <!--Optional:-->
+         <typ:name>root1</typ:name>
+         <!--Optional:-->
+         <typ:id>456</typ:id>
+         <!--Optional:-->
+         <typ:Department>IT</typ:Department>
+         <!--Optional:-->
+         <typ:age>12</typ:age>
+      </typ:addEmployee>
+   </soap:Body>
+</soap:Envelope>
+2021-04-02 00:12:28,636 INFO  [log] Hello
+2021-04-02 00:12:28,670 INFO  [log] one
+2021-04-02 00:12:28,671 INFO  [log] 39
+2021-04-02 00:12:28,746 INFO  [log] 9912
+2021-04-02 00:12:28,747 INFO  [log] Ramu two
+2021-04-02 00:12:28,794 INFO  [log] <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:typ="http://sample.com/reservation/guest/types">
+   <soap:Header/>
+   <soap:Body>
+      <typ:getEmployeeDetails>
+         <!--Optional:-->
+         <typ:employeeName>${#TestCase#employeeName}</typ:employeeName>
+      </typ:getEmployeeDetails>
+   </soap:Body>
+</soap:Envelope>
+2021-04-02 00:12:28,838 INFO  [log] M
+2021-04-02 00:12:28,925 INFO  [log] <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:typ="http://sample.com/reservation/guest/types">
+   <soap:Header/>
+   <soap:Body>
+      <typ:addEmployee>
+         <!--Optional:-->
+         <typ:name>root1</typ:name>
+         <!--Optional:-->
+         <typ:id>456</typ:id>
+         <!--Optional:-->
+         <typ:Department>IT</typ:Department>
+         <!--Optional:-->
+         <typ:age>12</typ:age>
+      </typ:addEmployee>
+   </soap:Body>
+</soap:Envelope>
