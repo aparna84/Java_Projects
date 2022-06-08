@@ -1,0 +1,120 @@
+{
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "$id": "http://example.com/POST-Trades_X3_S1_TC1_Schema_res.json",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "data": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                    "firstName": {
+                        "type": "string"
+                    },
+                    "middleName": {
+                        "type": "string"
+                    },
+                    "lastName": {
+                        "type": "string"
+                    },
+                    "prefix": {
+                        "type": "string"
+                    },
+                    "suffix": {
+                        "type": "string"
+                    },
+                    "classification": {
+                        "type": "string"
+                    },
+                    "endClientName": {
+                        "type": "string"
+                    },
+                    "externalId": {
+                        "type": "string"
+                    },
+                    "active": {
+                        "type": "boolean"
+                    },
+                    "prospectStatus": {
+                        "type": "string"
+                    },
+                    "prospect": {
+                        "type": "boolean"
+                    },
+                    "createDate": {
+                        "type": "string"
+                    },
+                    "changeDate": {
+                        "type": "string"
+                    },
+                    "systemIdentifier": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "properties": {
+                                "name": {
+                                    "type": "string"
+                                },
+                                "value": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "paging": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "cursors": {
+                    "type": "object",
+                    "additionalProperties": false,
+                    "properties": {
+                        "before": {
+                            "type": "string"
+                        },
+                        "after": {
+                            "type": "string"
+                        },
+                        "max": {
+                            "type": "string"
+                        },
+                        "last": {
+                            "type": "string"
+                        },
+                        "resultCount": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "totalCount": {
+                    "type": "integer"
+                },
+                "limit": {
+                    "type": "integer"
+                },
+                "first": {
+                    "type": "string"
+                },
+                "last": {
+                    "type": "string"
+                },
+                "previous": {
+                    "type": "string"
+                },
+                "next": {
+                    "type": "string"
+                },
+                "self": {
+                    "type": "string"
+                }
+            }
+        }
+    }, 
+	"additionalProperties": false
+}
