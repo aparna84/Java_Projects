@@ -1,0 +1,341 @@
+{
+   "data" : [
+      {
+         "middleName" : null,
+         "lastName" : null,
+         "prefix" : "",
+         "suffix" : "",
+         "classification" : "Entity",
+         "endClientName" : "E82EF3AB9",
+         "externalId" : "shiva",
+         "active" : true,
+         "prospectStatus" : null,
+         "prospect" : true,
+         "createDate" : "2020-12-16T09:55:40.313",
+         "changeDate" : "2020-12-16T09:55:45.303",
+         "systemIdentifier" : [ ]
+      },
+      {
+         "middleName" : null,
+         "lastName" : null,
+         "prefix" : "",
+         "suffix" : "",
+         "classification" : "Entity",
+         "endClientName" : "E82EF3AB9",
+         "externalId" : "shivaTest",
+         "active" : true,
+         "prospectStatus" : null,
+         "prospect" : true,
+         "createDate" : "2020-12-16T09:57:21.657",
+         "changeDate" : "2020-12-16T09:57:22.803",
+         "systemIdentifier" : [ ]
+      },
+      {
+         "firstName" : null,
+         "middleName" : null,
+         "lastName" : null,
+         "prefix" : "",
+         "suffix" : "",
+         "classification" : "Entity",
+         "endClientName" : "A2C85B5",
+         "externalId" : "test-QA1",
+         "active" : true,
+         "prospectStatus" : null,
+         "prospect" : true,
+         "createDate" : "2021-03-23T13:08:38.467",
+         "changeDate" : "2021-03-23T13:09:33.607",
+         "systemIdentifier" : [ ]
+      },
+      {
+         "firstName" : "B7ACD9643DEF8F643303",
+         "middleName" : "F523BF25840047",
+         "lastName" : "5FD52DB6DB23E",
+         "prefix" : "Mr.",
+         "suffix" : "Sr.",
+         "classification" : "Individual",
+         "endClientName" : "8DAFA9F9C058882CE90D3AEC0F100FF709753803CC0996AA7",
+         "externalId" : "roshantest1",
+         "active" : true,
+         "prospectStatus" : "Gate 1",
+         "prospect" : true,
+         "createDate" : "2021-04-28T09:23:34.073",
+         "changeDate" : "2021-07-28T12:15:07.993",
+         "systemIdentifier" : [
+            {
+               "name" : "System1",
+               "value" : "Extenal System Test1"
+            },
+            {
+               "name" : "System2",
+               "value" : "External System Test2"
+            }
+         ]
+      },
+      {
+         "firstName" : null,
+         "middleName" : null,
+         "lastName" : null,
+         "prefix" : "",
+         "suffix" : "",
+         "classification" : "Entity",
+         "endClientName" : "76238D",
+         "externalId" : "roshantest12",
+         "active" : true,
+         "prospectStatus" : "Gate 1",
+         "prospect" : true,
+         "createDate" : "2021-04-28T16:44:15.503",
+         "changeDate" : "2021-07-28T12:15:07.993",
+         "systemIdentifier" : [
+            {
+               "name" : "System1",
+               "value" : "Extenal System Test1"
+            },
+            {
+               "name" : "System2",
+               "value" : "External System Test2"
+            }
+         ]
+      },
+      {
+         "firstName" : "DB7E904DBD08D850",
+         "middleName" : "F523BF25840047",
+         "lastName" : "5FD52DB6DB23E",
+         "prefix" : "Mr.",
+         "suffix" : "Sr.",
+         "classification" : "Individual",
+         "endClientName" : "8C1459F0DBCCD469B07F98B072DDDC32FC49085CA6F3D",
+         "externalId" : "roshantest123",
+         "active" : true,
+         "prospectStatus" : "Gate 1",
+         "prospect" : true,
+         "createDate" : "2021-05-05T10:33:48.91",
+         "changeDate" : "2021-07-28T12:15:07.993",
+         "systemIdentifier" : [
+            {
+               "name" : "System1",
+               "value" : "Extenal System Test1"
+            },
+            {
+               "name" : "System2",
+               "value" : "External System Test2"
+            }
+         ]
+      },
+      {
+         "firstName" : "76238D",
+         "middleName" : "F523BF25840047",
+         "lastName" : "AA9",
+         "prefix" : "Mr.",
+         "suffix" : "Sr.",
+         "classification" : "Individual",
+         "endClientName" : "41C790402D25C7B59356C0948",
+         "externalId" : "roshntest12",
+         "active" : true,
+         "prospectStatus" : "Gate 1",
+         "prospect" : true,
+         "createDate" : "2021-05-14T11:21:18.253",
+         "changeDate" : "2021-07-28T12:15:07.993",
+         "systemIdentifier" : [
+            {
+               "name" : "System1",
+               "value" : "Extenal System Test1"
+            },
+            {
+               "name" : "System2",
+               "value" : "External System Test2"
+            }
+         ]
+      },
+      {
+         "firstName" : "92DC139256037",
+         "middleName" : "41AA2D7ECE78D",
+         "lastName" : "15987C5B65316",
+         "prefix" : "Mr.",
+         "suffix" : "Sr.",
+         "classification" : "Individual",
+         "endClientName" : "72810CFB40CB9D3D2FBD923DCBC04C0C3021534B0",
+         "externalId" : "Immanuel",
+         "active" : true,
+         "prospectStatus" : "Gate 1",
+         "prospect" : true,
+         "createDate" : "2021-05-14T12:37:59.89",
+         "changeDate" : "2021-07-28T12:15:07.993",
+         "systemIdentifier" : [
+            {
+               "name" : "System1",
+               "value" : "Extenal System Test1"
+            },
+            {
+               "name" : "System2",
+               "value" : "External System Test2"
+            }
+         ]
+      },
+      {
+         "firstName" : "92DC139256037",
+         "middleName" : "41AA2D7ECE78D",
+         "lastName" : "15987C5B65316",
+         "prefix" : "Mr.",
+         "suffix" : "Sr.",
+         "classification" : "Individual",
+         "endClientName" : "72810CFB40CB9D3D2FBD923DCBC04C0C3021534B0",
+         "externalId" : "Patrick",
+         "active" : true,
+         "prospectStatus" : "Gate 1",
+         "prospect" : true,
+         "createDate" : "2021-05-14T12:38:08.187",
+         "changeDate" : "2021-07-28T12:15:07.993",
+         "systemIdentifier" : [
+            {
+               "name" : "System1",
+               "value" : "Extenal System Test1"
+            },
+            {
+               "name" : "System2",
+               "value" : "External System Test2"
+            }
+         ]
+      },
+      {
+         "firstName" : "92DC139256037",
+         "middleName" : "41AA2D7ECE78D",
+         "lastName" : "15987C5B65316",
+         "prefix" : "Mr.",
+         "suffix" : "Sr.",
+         "classification" : "Individual",
+         "endClientName" : "72810CFB40CB9D3D2FBD923DCBC04C0C3021534B0",
+         "externalId" : "Alan",
+         "active" : true,
+         "prospectStatus" : "Gate 1",
+         "prospect" : true,
+         "createDate" : "2021-05-14T12:39:15.967",
+         "changeDate" : "2021-07-28T12:15:07.993",
+         "systemIdentifier" : [
+            {
+               "name" : "System1",
+               "value" : "Extenal System Test1"
+            },
+            {
+               "name" : "System2",
+               "value" : "External System Test2"
+            }
+         ]
+      },
+      {
+         "firstName" : "92DC139256037",
+         "middleName" : "41AA2D7ECE78D",
+         "lastName" : "15987C5B65316",
+         "prefix" : "Mr.",
+         "suffix" : "Sr.",
+         "classification" : "Individual",
+         "endClientName" : "72810CFB40CB9D3D2FBD923DCBC04C0C3021534B0",
+         "externalId" : "Laverne",
+         "active" : true,
+         "prospectStatus" : "Gate 1",
+         "prospect" : true,
+         "createDate" : "2021-05-14T12:43:06.647",
+         "changeDate" : "2021-07-28T12:15:07.993",
+         "systemIdentifier" : [
+            {
+               "name" : "System1",
+               "value" : "Extenal System Test1"
+            },
+            {
+               "name" : "System2",
+               "value" : "External System Test2"
+            }
+         ]
+      },
+      {
+         "firstName" : "C09113",
+         "middleName" : "42FBC",
+         "lastName" : "15987C5B65316",
+         "prefix" : "Mr.",
+         "suffix" : "Sr.",
+         "classification" : "Individual",
+         "endClientName" : "0B8B0AD656C977CA481DBBFBA4",
+         "externalId" : "Kyler539",
+         "active" : true,
+         "prospectStatus" : "Gate 1",
+         "prospect" : true,
+         "createDate" : "2021-05-14T12:45:14.387",
+         "changeDate" : "2021-07-28T12:15:07.993",
+         "systemIdentifier" : [
+            {
+               "name" : "System1",
+               "value" : "Extenal System Test1"
+            },
+            {
+               "name" : "System2",
+               "value" : "External System Test2"
+            }
+         ]
+      },
+      {
+         "firstName" : "BCCF7B019",
+         "middleName" : "BB6DB",
+         "lastName" : "12CE",
+         "prefix" : "Mr.",
+         "suffix" : "Sr.",
+         "classification" : "Individual",
+         "endClientName" : "1C5FBACE5DFAF7A25140",
+         "externalId" : "Efrain884",
+         "active" : true,
+         "prospectStatus" : "Gate 1",
+         "prospect" : true,
+         "createDate" : "2021-05-14T12:45:39.237",
+         "changeDate" : "2021-07-28T12:15:07.993",
+         "systemIdentifier" : [
+            {
+               "name" : "System1",
+               "value" : "Extenal System Test1"
+            },
+            {
+               "name" : "System2",
+               "value" : "External System Test2"
+            }
+         ]
+      },
+      {
+         "firstName" : "6FD3282",
+         "middleName" : "5F796570",
+         "lastName" : "9793D28",
+         "prefix" : "Mr.",
+         "suffix" : "Sr.",
+         "classification" : "Individual",
+         "endClientName" : "A0730E79CB549DA70B8AAA76",
+         "externalId" : "Abel513",
+         "active" : true,
+         "prospectStatus" : "Gate 1",
+         "prospect" : true,
+         "createDate" : "2021-05-14T12:47:41.51",
+         "changeDate" : "2021-07-28T12:15:07.993",
+         "systemIdentifier" : [
+            {
+               "name" : "System1",
+               "value" : "Extenal System Test1"
+            },
+            {
+               "name" : "System2",
+               "value" : "External System Test2"
+            }
+         ]
+      }
+   ],
+   "paging" : {
+      "cursors" : {
+         "before" : "270",
+         "after" : "1150",
+         "max" : "169347",
+         "last" : "1150",
+         "resultCount" : 14
+      },
+      "totalCount" : 139,
+      "limit" : 25,
+      "previous" : null,
+      "next" : "https://seidevint.api.seic.com/v1/endclients/metadata?firmId=9990&active=true&prospect=true&after=1150&limit=25",
+      "self" : "https://seidevint.api.seic.com/v1/endclients/metadata?firmId=9990&active=true&prospect=true",
+      "first" : "https://seidevint.api.seic.com/v1/endclients/metadata?firmId=9990&active=true&prospect=true&limit=25",
+      "last" : "https://seidevint.api.seic.com/v1/endclients/metadata?firmId=9990&active=true&prospect=true&after=1150&limit=25"
+   }
+}
